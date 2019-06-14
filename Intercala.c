@@ -180,8 +180,8 @@ int main(int argc, char**argv)
 {
     criarArq();
     ordena();
-	intercala();
-	remocao();
+    intercala();
+    remocao();
 
     return 0;
 }
